@@ -8,51 +8,73 @@ Sector: Healthcare
 Industry: Pharmaceuticals
 
 Market Data
-Price: 920.5
-Open: 910.0
-High: 925.0
-Low: 905.0
-Previous Close: 900.0
-Change: +20.5 (+2.3%)
-Volume: 3,200,000
-Average Volume: 2,800,000
-Market Cap: 4.1T DKK
-Beta: 0.8
+Price: 512.0
+Open: 505.0
+High: 518.5
+Low: 503.2
+Previous Close: 498.0
+Change: +14.0 (+2.8%)
+Volume: 14,200,000
+Average Volume: 11,800,000
+Market Cap: 2.3T DKK
+Beta: 0.72
 
 Financials
-Revenue: 260B DKK
-Operating Income: 130B DKK
-Net Income: 110B DKK
-EPS: 24.5
+Revenue: 232B DKK
+Operating Income: 98B DKK
+Net Income: 78B DKK
+EPS: 17.4
 
-Total Assets: 500B DKK
-Cash: 90B DKK
-Total Debt: 60B DKK
-Equity: 300B DKK
+Total Assets: 310B DKK
+Cash: 42B DKK
+Total Debt: 55B DKK
+Equity: 185B DKK
 
-Operating Cash Flow: 140B DKK
-Free Cash Flow: 120B DKK
+Operating Cash Flow: 88B DKK
+Free Cash Flow: 72B DKK
 
 Key Statistics
-P/E: 38
-Forward P/E: 34
-ROE: 72%
-Net Margin: 42%
+P/E: 29.4
+Forward P/E: 24.8
+PEG: 1.2
+ROE: 42%
+Net Margin: 33%
 
 Earnings
 Earnings Date: 2026-02-05
-EPS Actual: 24.5
-EPS Estimate: 23.0
-Revenue Actual: 260B DKK
-Revenue Estimate: 250B DKK
-Surprise: +6.5%
+EPS Actual: 17.4
+EPS Estimate: 16.9
+Revenue Actual: 232B DKK
+Revenue Estimate: 228B DKK
+Surprise: +2.6%
 
 News
-2026-03-18 | Reuters
-Novo Nordisk receives EU approval for new obesity drug
+Source ID: novob_news_001
+Date: 2026-03-22
+Source: Reuters
+Headline: FDA grants full approval to Novo Nordisks next-generation obesity drug CagriSema
+URL: https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-cagrisema-fda-approval-2026-03-22/
 
-2026-03-05 | Bloomberg
-Novo Nordisk expands production capacity to meet demand
+Source ID: novob_news_002
+Date: 2026-03-18
+Source: Bloomberg
+Headline: Novo Nordisk cuts full-year sales growth guidance to 16-24 percent from 19-27 percent
+URL: https://www.bloomberg.com/news/novo-nordisk-guidance-cut-fy2026-2026-03-18/
 
-2026-02-05 | Financial Times
-Novo Nordisk beats expectations on strong GLP-1 sales
+Source ID: novob_news_003
+Date: 2026-03-10
+Source: Financial Times
+Headline: EU regulators open investigation into Novo Nordisks pricing practices for GLP-1 drugs
+URL: https://www.ft.com/content/novo-nordisk-eu-pricing-investigation-glp1-2026-03-10/
+
+Source ID: novob_news_004
+Date: 2026-02-28
+Source: Reuters
+Headline: Novo Nordisk announces 18B DKK acquisition of rare disease biotech Cardior Pharmaceuticals
+URL: https://www.reuters.com/business/novo-nordisk-cardior-acquisition-2026-02-28/
+
+Source ID: novob_news_005
+Date: 2026-02-05
+Source: Bloomberg
+Headline: Novo Nordisk Q4 2025 results beat estimates but outlook disappoints investors
+URL: https://www.bloomberg.com/news/novo-nordisk-q4-2025-earnings-2026-02-05/
