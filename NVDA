@@ -1,80 +1,222 @@
 Asset
 Symbol: NVDA
 Name: NVIDIA Corporation
-Exchange: NASDAQ
+Exchange: NASDAQ Global Select Market
 Currency: USD
 Country: USA
 Sector: Information Technology
-Industry: Semiconductors
-
-Market Data
-Price: 892.0
-Open: 880.0
-High: 895.0
-Low: 875.0
-Previous Close: 870.0
-Change: +22.0 (+2.5%)
-Volume: 120,000,000
-Average Volume: 80,000,000
-Market Cap: 2.2T USD
-Beta: 1.6
-
-Financials
-Revenue: 32B USD
-Operating Income: 16B USD
-Net Income: 14B USD
-EPS: 5.2
-
-Total Assets: 90B USD
-Cash: 26B USD
-Total Debt: 12B USD
-Equity: 60B USD
-
-Operating Cash Flow: 18B USD
-Free Cash Flow: 15B USD
-
+Industry: Semiconductors – General
+Founded: 1993 (California), Reincorporated 1998 (Delaware)
+Headquarters: 2788 San Tomas Expressway, Santa Clara, CA 95051
+CEO: Jen-Hsun Huang
+CFO: Colette M. Kress
+Employees: ~42,000 (end of FY2026)
+Fiscal Year End: Last Sunday in January
+Market Data (as of ~Apr 10, 2026)
+Price: 183.39
+Open: ~182.08 (implied from prior close + change)
+Previous Close: 182.08
+Change: +1.31 (+0.72%)
+52-Week High: ~230 (record high in Oct 2025, implied ~20% decline to ~184)
+Market Cap: ~4.0T USD (per 10-K: ~$4T as of Jul 25, 2025; declined ~20% from record)
+Beta: Not explicitly stated
+Shares Outstanding: 24,304,000,000 (as of Jan 25, 2026)
+Shares Outstanding (as of Feb 20, 2026): 24,300,000,000
+Valuation Metrics
+P/E (Forward 12-Month): 21.66
+P/E (TTM, ~late Mar 2026): ~19.6–20
+10-Year Average P/E: ~36
+Industry Average Forward P/E: 23.57
+Comparable P/E – Intel: 87.21
+Comparable P/E – AMD: 29.49
+Comparable P/E – Broadcom: 24.37
+Segments
+Segment 1: Compute & Networking
+Segment 2: Graphics
+Annual Financials – Income Statement (All numbers in thousands USD)
+BreakdownFY2026 (Jan 25, 2026)FY2025 (Jan 26, 2025)FY2024 (Jan 28, 2024)FY2023 (Jan 31, 2023)Total Revenue215,938,000130,497,00060,922,00026,974,000Cost of Revenue62,475,00032,639,00016,621,00011,618,000Gross Profit153,463,00097,858,00044,301,00015,356,000Research & Development18,497,00012,914,0008,675,0007,339,000Selling General & Administrative4,579,0003,491,0002,654,0002,440,000Total Operating Expenses23,076,00016,405,00011,329,0009,779,000Operating Income130,387,00081,453,00032,972,0005,577,000Interest Income2,300,0001,786,000866,000267,000Interest Expense259,000247,000257,000262,000Other Income (Expense), Net9,022,0001,034,000237,000-1,401,000Pretax Income141,450,00084,026,00033,818,0004,181,000Tax Provision21,383,00011,146,0004,058,000-187,000Net Income120,067,00072,880,00029,760,0004,368,000Basic EPS4.932.971.210.18Diluted EPS4.902.941.190.17Basic Average Shares24,359,00024,555,00024,690,00024,870,000Diluted Average Shares24,514,00024,804,00024,940,00025,070,000EBIT141,709,00084,273,00034,075,0004,443,000EBITDA144,552,00086,137,00035,583,0005,986,000Depreciation & Amortization2,843,0001,864,0001,508,0001,543,000
+Quarterly Financials – Income Statement (thousands USD)
+BreakdownQ4 FY2026 (Jan 25, 2026)Q3 FY2026 (Oct 31, 2025)Q2 FY2026 (Jul 31, 2025)Q1 FY2026 (Apr 30, 2025)Q4 FY2025 (Jan 31, 2025)Total Revenue68,127,00057,006,00046,743,00044,062,00039,331,000Cost of Revenue17,034,00015,157,00012,890,00017,394,00010,608,000Gross Profit51,093,00041,849,00033,853,00026,668,00028,723,000R&D5,512,0004,705,0004,291,0003,989,0003,714,000SG&A1,282,0001,134,0001,122,0001,041,000975,000Total Operating Expenses6,794,0005,839,0005,413,0005,030,0004,689,000Operating Income44,299,00036,010,00028,440,00021,638,00024,034,000Interest Income568,000624,000592,000515,000511,000Interest Expense73,00061,00062,00063,00061,000Other Income, Net5,604,0001,363,0002,236,000-180,000733,000Pretax Income50,398,00037,936,00031,206,00021,910,00025,217,000Tax Provision7,438,0006,026,0004,784,0003,135,0003,126,000Net Income42,960,00031,910,00026,422,00018,775,00022,091,000Basic EPS1.771.311.080.770.90Diluted EPS1.761.301.080.760.89EBIT50,471,00037,997,00031,268,00021,973,00025,278,000EBITDA51,283,00038,748,00031,937,00022,584,00025,821,000
+Key Margins (FY2026)
+Gross Margin: 71.1%
+Operating Margin: 60.4%
+Net Margin: 55.6%
+R&D as % of Revenue: 8.6%
+SG&A as % of Revenue: 2.1%
+Effective Tax Rate: 15.1%
+Balance Sheet (thousands USD)
+BreakdownJan 25, 2026Oct 31, 2025Jul 31, 2025Apr 30, 2025Jan 26, 2025Total Assets206,803,000161,148,000140,740,000125,254,000111,601,000Total Current Assets125,605,000116,492,000102,219,00089,935,00080,126,000Cash & Cash Equivalents10,605,00011,486,00011,639,00015,234,0008,589,000Short-Term Investments51,951,00049,122,00042,352,00037,457,00034,621,000Cash + Investments Total62,556,00060,608,00053,991,00052,691,00043,210,000Accounts Receivable38,466,00033,391,00027,808,00022,132,00023,065,000Inventories21,403,00019,784,00014,962,00011,333,00010,080,000Net PPE13,250,00012,061,00011,225,0008,946,0008,076,000Goodwill20,832,0006,261,0005,755,0005,498,0005,188,000Other Intangible Assets3,306,000936,000755,000769,000807,000Non-Marketable Equity Securities22,251,0008,187,0003,799,0003,240,0003,387,000Deferred Tax Assets13,258,00013,674,00013,570,00013,318,00010,979,000Total Liabilities49,510,00042,251,00040,609,00041,411,00032,274,000Total Current Liabilities32,163,00026,075,00024,257,00026,542,00018,047,000Accounts Payable9,812,0008,624,0009,064,0007,331,0006,310,000Short-Term Debt999,000999,000———Long-Term Debt7,469,0007,468,0008,466,0008,464,0008,463,000Total Debt11,040,00010,481,00010,598,00010,285,0009,982,000Capital Lease Obligations2,572,0002,014,0002,132,0001,821,0001,519,000Total Shareholders' Equity157,293,000118,897,000100,131,00083,843,00079,327,000Common Stock Par Value24,00024,00024,00024,00024,000Additional Paid-in Capital10,118,00010,626,00011,200,00011,475,00011,237,000Retained Earnings146,973,000107,908,00088,737,00072,158,00068,038,000Tangible Book Value133,155,000111,700,00093,621,00077,576,00073,332,000Working Capital93,442,00090,417,00077,962,00063,393,00062,079,000
+Cash Flow (Annual, thousands USD)
+BreakdownFY2026FY2025FY2024Net Cash from Operations102,718,00064,089,00028,090,000Capital Expenditures-6,042,000-3,236,000-1,069,000Free Cash Flow (implied)~96,676,000~60,853,000~27,021,000Purchases of Marketable Securities-40,616,000-26,575,000-18,211,000Purchases of Non-Marketable Equity Securities-17,502,000-1,486,000-862,000Groq License-13,000,000——Share Repurchases-40,086,000-33,706,000-9,533,000Dividends Paid-974,000-834,000-395,000Cash Paid for Income Taxes20,288,00015,118,0006,549,000
+Revenue by Segment (Annual, thousands USD)
+SegmentFY2026FY2025FY2024Compute & Networking193,479,000116,193,00047,405,000Graphics22,459,00014,304,00013,517,000Total215,938,000130,497,00060,922,000
+Segment Operating Income (Annual, thousands USD)
+SegmentFY2026FY2025FY2024Compute & Networking130,141,00082,875,00032,016,000Graphics9,156,0005,085,0005,846,000Total Segment139,297,00087,960,00037,862,000
+Revenue by End Market (Annual, thousands USD)
+End MarketFY2026FY2025FY2024Data Center – Compute162,361,000102,196,00038,950,000Data Center – Networking31,376,00012,990,0008,575,000Data Center Total193,737,000115,186,00047,525,000Gaming16,042,00011,350,00010,447,000Professional Visualization3,191,0001,878,0001,553,000Automotive2,349,0001,694,0001,091,000OEM and Other619,000389,000306,000
+Revenue by Geography – Customer HQ (Annual, thousands USD)
+RegionFY2026FY2025FY2024United States149,617,00077,482,00031,533,000Taiwan42,345,00023,600,00014,912,000China (incl. Hong Kong)19,677,00025,048,00012,330,000Other4,299,0004,367,0002,147,000
+Long-Lived Assets by Country (thousands USD, Jan 25, 2026)
+United States: 5,125,000
+Taiwan: 3,219,000
+Israel: 1,471,000
+Other: 568,000
+Total: 10,383,000
+Debt Schedule (as of Jan 25, 2026, thousands USD)
+NoteRemaining Term (yrs)Effective RateCarrying Value3.20% Notes Due 20260.63.31%1,000,0001.55% Notes Due 20282.41.64%1,250,0002.85% Notes Due 20304.22.93%1,500,0002.00% Notes Due 20315.42.09%1,250,0003.50% Notes Due 204014.23.54%1,000,0003.50% Notes Due 205024.23.54%2,000,0003.70% Notes Due 206034.23.73%500,000Unamortized discount-32,000Net carrying amount8,468,000Short-term portion999,000Long-term portion7,469,000
+Commercial Paper Program: $25.0B authorized; $0 outstanding
+Capital Return (FY2026)
+Shares Repurchased: 282,000,000
+Repurchase Amount: 40,400,000,000 USD
+Dividends Paid: 974,000,000 USD
+Dividend Per Share: $0.04
+Remaining Buyback Authorization (Jan 25, 2026): 58,500,000,000 USD
+Additional Authorization (Aug 26, 2025): 60,000,000,000 USD
 Key Statistics
-P/E: 65
-Forward P/E: 55
-PEG: 1.8
-ROE: 55%
-Net Margin: 42%
-
-Earnings
-Earnings Date: 2026-03-26
-EPS Actual: 5.2
-EPS Estimate: 4.8
-Revenue Actual: 32B USD
-Revenue Estimate: 30B USD
-Surprise: +8.3%
-
+P/E (Forward 12-Month): ~21.66
+P/E (TTM): ~37.4 (183.39 / 4.90)
+Gross Margin FY2026: 71.1%
+Gross Margin FY2025: 75.0%
+Operating Margin FY2026: 60.4%
+Net Margin FY2026: 55.6%
+ROE (approx): 76.3% (120,067 / avg equity ~157,293)
+Revenue Growth YoY: 65%
+Net Income Growth YoY: 65%
+EPS Growth YoY: 67%
+Turnover Rate (employees): 3.7%
+Data Center as % of Revenue: 89.7%
+International Revenue %: 31% (by customer HQ)
+Stock-Based Compensation (thousands USD)
+FY2026FY2025FY2024Cost of Revenue261,000178,000141,000R&D4,676,0003,423,0002,532,000SG&A1,449,0001,136,000876,000Total SBC6,386,0004,737,0003,549,000
+Unearned SBC (Jan 25, 2026): 14,800,000,000 USD
+Weighted Avg Recognition Period: 2.3 years (RSUs/PSUs), 0.9 years (ESPP)
+Commitments (as of Jan 25, 2026)
+Inventory Purchase & Supply Obligations: ~95,200,000,000 USD (substantially all through FY2027)
+Multi-Year Cloud Service Agreements: 27,000,000,000 USD
+Investment Commitments: 11,400,000,000 USD
+Other Commitments: 3,400,000,000 USD
+Future Lease Obligations: 3,624,000,000 USD
+Expected Future Lease Commencements (FY2027–2030): 22,700,000,000 USD
+Groq Transaction (Dec 2025)
+Total Consideration: ~17,000,000,000 USD ($13B at closing + $4B payable within 1 year)
+Goodwill Recorded: 14,400,000,000 USD
+Developed Technology Intangible: 2,500,000,000 USD (5-year useful life)
+Executive Compensation – FY2027 Variable Comp Targets
+OfficerTarget Award% of Base SalaryJen-Hsun Huang (CEO)$4,000,000200%Colette M. Kress (CFO)$1,500,000150%Ajay K. Puri (EVP)$1,500,000150%Debora Shoquist (EVP)$1,500,000150%Timothy S. Teter (EVP/GC)$1,500,000150%
+Analyst Estimates
+Revenue Estimates
+Q1 FY2027 (Apr 2026)Q2 FY2027 (Jul 2026)FY2027FY2028No. of Analysts41395053Avg. Estimate78.74B86.42B369.42B479.97BLow Estimate77.9B82.11B332.93B307.28BHigh Estimate85.51B96.66B444.36B625.91BYear Ago Sales44.06B46.74B215.94B369.42BSales Growth (est)78.71%84.87%71.08%29.93%
+EPS Estimates (Normalized)
+Q1 FY2027Q2 FY2027FY2027FY2028No. of Analysts38374746Avg. Estimate1.781.958.2911.12Low Estimate1.691.837.688.23High Estimate1.992.249.4013.88Year Ago EPS0.811.054.778.20
+Earnings History
+Q1 FY2026Q2 FY2026Q3 FY2026Q4 FY2026EPS Estimate0.751.011.261.54EPS Actual0.811.051.301.62Surprise %8.02%4.10%3.46%5.32%
+EPS Growth Estimates
+Current Qtr: 119.15%
+Next Qtr: 85.37%
+Current Year (FY2027): 73.89%
+Next Year (FY2028): 34.02%
+Analyst Price Target
+Benchmark: $250.00/share (maintained Apr 1, 2026)
+Zacks Rank: #1 (Strong Buy)
+Projected FY2027 Earnings Growth: 66.9%
+FY2027 Guidance (Company)
+Q1 FY2027 Revenue Estimate: ~$78B (+77% YoY)
+Q1 FY2027 Non-GAAP Gross Margin: ~75%
+12-Month Share Price Performance
+NVDA 12-Month Return: +59%
+Industry Return: +54.6%
+Stock Decline from Oct 2025 Record High: ~-20%
+Technical Levels (as of ~Apr 9, 2026)
+Current Price: ~$182–183
+Resistance Level 1: $185
+Resistance Level 2: $200
+Support Level 1: $170
+Support Level 2: $165
+Breakdown Risk Level: $150
 News
 Source ID: nvda_news_001
-Date: 2026-03-27
-Source: Reuters
-Headline: Nvidia unveils next-generation Blackwell Ultra AI chip ahead of schedule
-URL: https://www.reuters.com/technology/nvidia-blackwell-ultra-ai-chip-2026-03-27/
-
+Date: 2026-04-09
+Source: TradingView / GuruFocus
+Headline: Nvidia Rises Over 10% In Six Sessions, Approaches Key $185 Breakout Level
+URL: https://www.tradingview.com/news/gurufocus:9f8166768094b:0-nvidia-rises-over-10-in-six-sessions-approaches-key-185-breakout-level/
 Source ID: nvda_news_002
-Date: 2026-03-26
-Source: Bloomberg
-Headline: Nvidia beats earnings expectations driven by record AI datacenter demand
-URL: https://www.bloomberg.com/news/nvidia-earnings-q1-2026-beat-2026-03-26/
-
+Date: 2026-04-09
+Source: TradingView / Zacks
+Headline: NVIDIA's Valuation Looks Attractive: Is it Time to Buy the Stock?
+URL: https://www.tradingview.com/news/zacks:5b9672bc7094b:0-nvidia-s-valuation-looks-attractive-is-it-time-to-buy-the-stock/
 Source ID: nvda_news_003
-Date: 2026-03-20
-Source: Financial Times
-Headline: US considers tighter export restrictions on AI chips targeting Nvidia sales to China
-URL: https://www.ft.com/content/nvidia-us-export-restrictions-china-ai-chips-2026-03-20/
-
+Date: 2026-04-08
+Source: TradingView
+Headline: Key facts: Nvidia to provide 36k GPUs to Firmus APAC; Joins Anthropic Mythos
+URL: https://www.tradingview.com/news/tradingview:157430ba0f299:0-key-facts-nvidia-to-provide-36k-gpus-to-firmus-apac-joins-anthropic-mythos/
 Source ID: nvda_news_004
-Date: 2026-03-12
-Source: Reuters
-Headline: Nvidia and Microsoft expand cloud AI infrastructure partnership worth 10B USD
-URL: https://www.reuters.com/technology/nvidia-microsoft-cloud-ai-partnership-2026-03-12/
-
+Date: 2026-04-08
+Source: TradingView / GuruFocus
+Headline: Firmus Raises $505 Million At $5.5 Billion Valuation With Nvidia Backing
+URL: https://www.tradingview.com/news/gurufocus:13cc87b98094b:0-firmus-raises-505-million-at-5-5-billion-valuation-with-nvidia-backing/
 Source ID: nvda_news_005
-Date: 2026-02-18
-Source: Bloomberg
-Headline: Nvidia raises full-year revenue guidance to 130B USD citing sustained datacenter growth
-URL: https://www.bloomberg.com/news/nvidia-guidance-raised-fy2027-2026-02-18/
+Date: 2026-04-08
+Source: TradingView / GuruFocus
+Headline: A quiet switch in Nvidia's orbit is raising bigger questions
+URL: https://www.tradingview.com/news/gurufocus:7972185ab094b:0-a-quiet-switch-in-nvidia-s-orbit-is-raising-bigger-questions/
+Source ID: nvda_news_006
+Date: 2026-04-08
+Source: Reuters / Breakingviews
+Headline: AI dreams crash into stark $7 trln reality
+URL: https://www.tradingview.com/news/reuters.com,2026:newsml_L6N40Q0X0:0-ai-dreams-crash-into-stark-7-trln-reality/
+Source ID: nvda_news_007
+Date: 2026-04-07
+Source: TradingView / Zacks
+Headline: Quantum IPO Pipeline Reopens: 1 Pure Play and 2 Enablers Stand Out
+URL: https://www.tradingview.com/news/zacks:dd28866c7094b:0-quantum-ipo-pipeline-reopens-1-pure-play-and-2-enablers-stand-out/
+Source ID: nvda_news_008
+Date: 2026-04-07
+Source: TradingView / Invezz
+Headline: Why Nvidia stock is slipping another 1.5% today
+URL: https://www.tradingview.com/news/invezz:e37531f48094b:0-why-nvidia-stock-is-slipping-another-1-5-today/
+Source ID: nvda_news_009
+Date: 2026-04-07
+Source: Reuters / Zawya
+Headline: Morocco moves closer to $1.2bln AI data centre project
+URL: https://www.tradingview.com/news/reuters.com,2026-04-07:newsml_Zaw1ZFQqF:0-zawya-morocco-moves-closer-to-1-2bln-ai-data-centre-project-report/
+Source ID: nvda_news_010
+Date: 2026-04-01
+Source: DJN
+Headline: Nvidia Price Target Maintained With a $250.00/Share by Benchmark
+URL: https://www.tradingview.com/news/DJN_DN20260401001004:0/
+Source ID: nvda_news_011
+Date: 2026-03-30
+Source: Reuters
+Headline: Nvidia's PE sinks to seven-year low as war and AI angst weigh
+URL: https://www.tradingview.com/news/reuters.com,2026:newsml_L6N40F0YQ:0-nvidia-s-pe-sinks-to-seven-year-low-as-war-and-ai-angst-weigh/
+Source ID: nvda_news_012
+Date: 2026-03-18
+Source: Reuters
+Headline: Chicken Soup for the Soul publisher sues tech companies over AI training
+URL: https://www.tradingview.com/news/reuters.com,2026:newsml_L6N404190:0-chicken-soup-for-the-soul-publisher-sues-tech-companies-over-ai-training/
+Source ID: nvda_news_013
+Date: 2026-03-16
+Source: Reuters
+Headline: Wall St rises on strength in tech; investors weigh Middle East conflict
+URL: https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4040XC:0-wall-st-rises-on-strength-in-tech-investors-weigh-middle-east-conflict/
+Source ID: nvda_news_014
+Date: 2026-02-25
+Source: Quartr / TradingView
+Headline: NVDA: Record-breaking data center and networking growth fueled robust results and strong outlook
+URL: https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:2928714:0-nvda-record-breaking-data-center-and-networking-growth-fueled-robust-results-and-strong-outlook/
+SEC Filings Referenced
+Filing TypeDateDescription10-KFeb 25, 2026Annual Report FY2026 (ended Jan 25, 2026)10-QAug 27, 2025Quarterly Report Q2 FY2026 (ended Jul 27, 2025)8-KFeb 25, 2026Q4/FY2026 Earnings Results8-KNov 19, 2025Q3 FY2026 Earnings Results8-KMar 6, 2026FY2027 Variable Compensation Plan
+Key Risk Factors
+
+U.S. export controls on China (effectively foreclosed from China data center market)
+H20 charge: $4.5B in Q1 FY2026 for excess inventory/purchase obligations
+China antitrust investigation re: Mellanox acquisition compliance
+Geopolitical tensions (Middle East conflict, Strait of Hormuz, oil prices)
+Supply chain concentration in Asia (TSMC dependency)
+Customer concentration (one customer 22%, another 14% of FY2026 revenue)
+Tariff uncertainty and potential replacement export control rules
+Competition from internal customer ASICs and China-based rivals
+Groq license integration risk ($17B commitment)
+Securities class action litigation (In Re NVIDIA Corporation Securities Litigation)
+AI infrastructure funding sustainability ($7T+ required through 2030)
+Software tech sector pressure (iShares Expanded Tech-Software ETF down ~25% in 2026)
