@@ -6046,20 +6046,176 @@ By: /s/ Colette M. Kress
 https://finance.yahoo.com/sec-filing/NVDA/0001045810-25-000228_1045810/
 
 
+Index
+DJIA, NDX, S&P 500
+P/E
+38.40
+EPS (ttm)
+4.90
+Insider Own
+3.79%
+Shs Outstand
+24.30B
+Perf Week
+5.94%
+Market Cap
+4573.26B
+Forward P/E
+16.96
+EPS next Y
+11.10
+Insider Trans
+-0.39%
+Shs Float
+23.38B
+Perf Month
+2.76%
+Enterprise Value
+4522.12B
+PEG
+0.44
+EPS next Q
+1.76
+Inst Own
+68.38%
+Short Float
+1.20%
+Perf Quarter
+1.81%
+Income
+120.07B
+P/S
+21.18
+EPS this Y
+74.09%
+Inst Trans
+0.36%
+Short Ratio
+1.57
+Perf Half Y
+-2.27%
+Sales
+215.94B
+P/B
+29.08
+EPS next Y
+33.61%
+ROA
+75.42%
+Short Interest
+280.87M
+Perf YTD
+0.91%
+Book/sh
+6.47
+P/C
+73.11
+EPS next 5Y
+38.86%
+ROE
+101.49%
+52W High
+212.19 -11.31%
+Perf Year
+69.66%
+Cash/sh
+2.57
+P/FCF
+54.65
+EPS past 3/5Y
+204.08% 95.27%
+ROIC
+71.75%
+52W Low
+95.04 98.02%
+Perf 3Y
+611.18%
+Dividend Est.
+0.05 (0.02%)
+EV/EBITDA
+33.94
+Sales past 3/5Y
+100.05% 66.90%
+Gross Margin
+71.07%
+Volatility
+2.31% 2.62%
+Perf 5Y
+1100.29%
+Dividend TTM
+0.04 (0.02%)
+EV/Sales
+20.94
+EPS Y/Y TTM
+66.12%
+Oper. Margin
+60.38%
+ATR (14)
+5.28
+Perf 10Y
+20389.93%
+Dividend Ex-Date
+Mar 11, 2026
+Quick Ratio
+3.24
+Sales Y/Y TTM
+65.47%
+Profit Margin
+55.60%
+RSI (14)
+60.70
+Recom
+1.29
+Dividend Gr. 3/5Y
+25.99% 14.87%
+Current Ratio
+3.91
+EPS Q/Q
+96.65%
+SMA20
+5.84%
+Beta
+2.33
+Target Price
+269.16
+Payout
+0.82%
+Debt/Eq
+0.07
+Sales Q/Q
+73.21%
+SMA50
+3.41%
+Rel Volume
+0.79
+Prev Close
+188.63
+Employees
+42000
+LT Debt/Eq
+0.06
+Earnings
+Feb 25 AMC
+SMA200
+4.03%
+Avg Volume
+178.62M
+Price
+188.20
+IPO
+Jan 22, 1999
+Option/Short
+Yes / Yes
+EPS/Sales Surpr.
+5.54% 3.03%
+Trades
+Volume
+70,490,002
+Change
+-0.23%
 
 
 
-Valuation Measures
-Current	1/31/2026	10/31/2025	7/31/2025	4/30/2025	1/31/2025
-Market Cap	4.58T	4.65T	4.92T	4.33T	2.66T	2.94T
-Enterprise Value	4.53T	4.60T	4.88T	4.29T	2.62T	2.91T
-Trailing P/E	38.50	47.31	57.69	57.38	37.05	47.40
-Forward P/E	23.15	24.94	31.55	39.84	24.81	28.09
-PEG Ratio (5yr expected)	0.77	0.72	0.92	1.72	1.53	0.86
-Price/Sales	21.41	25.11	30.22	29.62	20.70	26.36
-Price/Book	29.14	39.07	49.15	51.65	33.49	44.60
-Enterprise Value/Revenue	20.99	24.55	29.53	28.87	20.10	25.70
-Enterprise Value/EBITDA	31.35	38.59	47.27	47.14	30.46	38.88
 Financial Highlights
 Fiscal Year
 Fiscal Year Ends	1/25/2026
@@ -6122,19 +6278,7 @@ Dividend Date 3	4/1/2026
 Ex-Dividend Date 4	3/11/2026
 Last Split Factor 2	10:1
 Last Split Date 3	6/10/2024
-Footnotes
-1 Data provided by Refinitiv.
-2 Data provided by EDGAR Online.
-3 Data derived from multiple sources or calculated by Yahoo Finance.
-4 Data provided by Morningstar, Inc.
-5 Shares outstanding is taken from the most recently filed quarterly or annual report and Market Cap is calculated using shares outstanding.
-6 Implied Shares Outstanding of common equity, assuming the conversion of all convertible subsidiary equity into common.
-7 EBITDA is calculated by S&P Global Market Intelligence using methodology that may differ from that used by a company in its reporting.
-8 A company's float is a measure of the number of shares available for trading by the public. It's calculated by taking the number of issued and outstanding shares minus any restricted stock, which may not be publicly traded.
-Abbreviation Guide
-mrq = Most Recent Quarter
-ttm = Trailing Twelve Months
-yoy = Year Over Year
-lfy = Last Fiscal Year
-fye = Fiscal Year Ending
-https://finance.yahoo.com/quote/NVDA/key-statistics/
+
+
+
+
