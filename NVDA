@@ -6046,175 +6046,17 @@ By: /s/ Colette M. Kress
 https://finance.yahoo.com/sec-filing/NVDA/0001045810-25-000228_1045810/
 
 
-Index
-DJIA, NDX, S&P 500
-P/E
-38.40
-EPS (ttm)
-4.90
-Insider Own
-3.79%
-Shs Outstand
-24.30B
-Perf Week
-5.94%
-Market Cap
-4573.26B
-Forward P/E
-16.96
-EPS next Y
-11.10
-Insider Trans
--0.39%
-Shs Float
-23.38B
-Perf Month
-2.76%
-Enterprise Value
-4522.12B
-PEG
-0.44
-EPS next Q
-1.76
-Inst Own
-68.38%
-Short Float
-1.20%
-Perf Quarter
-1.81%
-Income
-120.07B
-P/S
-21.18
-EPS this Y
-74.09%
-Inst Trans
-0.36%
-Short Ratio
-1.57
-Perf Half Y
--2.27%
-Sales
-215.94B
-P/B
-29.08
-EPS next Y
-33.61%
-ROA
-75.42%
-Short Interest
-280.87M
-Perf YTD
-0.91%
-Book/sh
-6.47
-P/C
-73.11
-EPS next 5Y
-38.86%
-ROE
-101.49%
-52W High
-212.19 -11.31%
-Perf Year
-69.66%
-Cash/sh
-2.57
-P/FCF
-54.65
-EPS past 3/5Y
-204.08% 95.27%
-ROIC
-71.75%
-52W Low
-95.04 98.02%
-Perf 3Y
-611.18%
-Dividend Est.
-0.05 (0.02%)
-EV/EBITDA
-33.94
-Sales past 3/5Y
-100.05% 66.90%
-Gross Margin
-71.07%
-Volatility
-2.31% 2.62%
-Perf 5Y
-1100.29%
-Dividend TTM
-0.04 (0.02%)
-EV/Sales
-20.94
-EPS Y/Y TTM
-66.12%
-Oper. Margin
-60.38%
-ATR (14)
-5.28
-Perf 10Y
-20389.93%
-Dividend Ex-Date
-Mar 11, 2026
-Quick Ratio
-3.24
-Sales Y/Y TTM
-65.47%
-Profit Margin
-55.60%
-RSI (14)
-60.70
-Recom
-1.29
-Dividend Gr. 3/5Y
-25.99% 14.87%
-Current Ratio
-3.91
-EPS Q/Q
-96.65%
-SMA20
-5.84%
-Beta
-2.33
-Target Price
-269.16
-Payout
-0.82%
-Debt/Eq
-0.07
-Sales Q/Q
-73.21%
-SMA50
-3.41%
-Rel Volume
-0.79
-Prev Close
-188.63
-Employees
-42000
-LT Debt/Eq
-0.06
-Earnings
-Feb 25 AMC
-SMA200
-4.03%
-Avg Volume
-178.62M
-Price
-188.20
-IPO
-Jan 22, 1999
-Option/Short
-Yes / Yes
-EPS/Sales Surpr.
-5.54% 3.03%
-Trades
-Volume
-70,490,002
-Change
--0.23%
-
-
+Valuation Measures
+Current	1/31/2026	10/31/2025	7/31/2025	4/30/2025	1/31/2025
+Market Cap	4.78T	4.65T	4.92T	4.33T	2.66T	2.94T
+Enterprise Value	4.72T	4.60T	4.88T	4.29T	2.62T	2.91T
+Trailing P/E	40.10	47.31	57.69	57.38	37.05	47.40
+Forward P/E	24.10	24.94	31.55	39.84	24.81	28.09
+PEG Ratio (5yr expected)	0.80	0.72	0.92	1.72	1.53	0.86
+Price/Sales	22.31	25.11	30.22	29.62	20.70	26.36
+Price/Book	30.36	39.07	49.15	51.65	33.49	44.60
+Enterprise Value/Revenue	21.88	24.55	29.53	28.87	20.10	25.70
+Enterprise Value/EBITDA	32.68	38.59	47.27	47.14	30.46	38.88
 
 Financial Highlights
 Fiscal Year
@@ -6233,7 +6075,7 @@ Quarterly Revenue Growth (yoy)	73.20%
 Gross Profit (ttm)	153.46B
 EBITDA	133.23B
 Net Income Avi to Common (ttm)	120.07B
-Diluted EPS (ttm)	4.90
+Diluted EPS (ttm)	4.89
 Quarterly Earnings Growth (yoy)	94.50%
 Balance Sheet
 Total Cash (mrq)	62.56B
@@ -6248,20 +6090,20 @@ Levered Free Cash Flow (ttm)	58.13B
 Trading Information
 Stock Price History
 Beta (5Y Monthly)	2.34
-52 Week Change 3	70.38%
-S&P 500 52-Week Change 3	26.10%
+52 Week Change 3	88.07%
+S&P 500 52-Week Change 3	32.07%
 52 Week High 3	212.19
 52 Week Low 3	95.04
-50-Day Moving Average 3	182.08
-200-Day Moving Average 3	180.74
+50-Day Moving Average 3	182.12
+200-Day Moving Average 3	181.12
 Share Statistics
-Avg Vol (3 month) 3	179.61M
-Avg Vol (10 day) 3	158.37M
+Avg Vol (3 month) 3	178.42M
+Avg Vol (10 day) 3	149.65M
 Shares Outstanding 5	24.3B
 Implied Shares Outstanding 6	24.3B
 Float 8	23.32B
 % Held by Insiders 1	4.21%
-% Held by Institutions 1	69.74%
+% Held by Institutions 1	69.76%
 Shares Short (3/13/2026) 4	229.24M
 Short Ratio (3/13/2026) 4	1.28
 Short % of Float (3/13/2026) 4	0.98%
@@ -6278,9 +6120,45 @@ Dividend Date 3	4/1/2026
 Ex-Dividend Date 4	3/11/2026
 Last Split Factor 2	10:1
 Last Split Date 3	6/10/2024
+Footnotes
+1 Data provided by Refinitiv.
+2 Data provided by EDGAR Online.
+3 Data derived from multiple sources or calculated by Yahoo Finance.
+4 Data provided by Morningstar, Inc.
+5 Shares outstanding is taken from the most recently filed quarterly or annual report and Market Cap is calculated using shares outstanding.
+6 Implied Shares Outstanding of common equity, assuming the conversion of all convertible subsidiary equity into common.
+7 EBITDA is calculated by S&P Global Market Intelligence using methodology that may differ from that used by a company in its reporting.
+8 A company's float is a measure of the number of shares available for trading by the public. It's calculated by taking the number of issued and outstanding shares minus any restricted stock, which may not be publicly traded.
+Abbreviation Guide
+mrq = Most Recent Quarter
+ttm = Trailing Twelve Months
+yoy = Year Over Year
+lfy = Last Fiscal Year
+fye = Fiscal Year Ending
 
 
 
+
+Revenue Estimate
+Currency in USD	Current Qtr. (Apr 2026)	Next Qtr. (Jul 2026)	Current Year (2027)	Next Year (2028)
+No. of Analysts	40	39	50	53
+Avg. Estimate	78.76B	86.42B	369.42B	479.97B
+Low Estimate	77.9B	82.11B	332.93B	307.28B
+High Estimate	85.51B	96.66B	444.36B	625.91B
+Year Ago Sales	44.06B	46.74B	215.94B	369.42B
+Sales Growth (year/est)	78.76%	84.87%	71.08%	29.93%
+Earnings Estimate
+
+gaap
+GAAP
+nongaap
+Normalized
+Currency in USD	Current Qtr. (Apr 2026)	Next Qtr. (Jul 2026)	Current Year (2027)	Next Year (2028)
+No. of Analysts	38	37	47	46
+Avg. Estimate	1.78	1.95	8.29	11.12
+Low Estimate	1.69	1.83	7.68	8.23
+High Estimate	1.99	2.24	9.4	13.88
+Year Ago EPS	0.81	1.05	4.77	8.29
 
 Earnings History
 
@@ -6320,7 +6198,5 @@ Growth Estimates
 Symbol	Current Qtr.	Next Qtr.	Current Year	Next Year
 NVDA	119.15%	85.37%	73.89%	34.02%
 S&P 500	11.60%	18.98%	17.59%	16.49%
-
-
 
 
