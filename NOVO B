@@ -4415,72 +4415,17 @@ https://www.nasdaq.com/market-activity/stocks/nonof/sec-filings?page=2&rows_per_
 
 
 
-Market Cap
-Current: 1.07T
-12/31/2025: 1.45T
-9/30/2025: --
-6/30/2025: 1.95T
-3/31/2025: 2.09T
-12/31/2024: 2.77T
-Enterprise Value
-Current: 1.17T
-12/31/2025: 1.51T
-9/30/2025: --
-6/30/2025: 2.03T
-3/31/2025: 2.16T
-12/31/2024: 2.75T
-Trailing P/E
-Current: 10.45
-12/31/2025: 13.94
-9/30/2025: --
-6/30/2025: 18.72
-3/31/2025: 20.76
-12/31/2024: 29.44
-Forward P/E
-Current: 11.12
-12/31/2025: 14.16
-9/30/2025: --
-6/30/2025: 16.72
-3/31/2025: 17.01
-12/31/2024: 22.37
-PEG Ratio (5yr expected)
-Current: 4.99
-12/31/2025: 2.17
-9/30/2025: --
-6/30/2025: 1.32
-3/31/2025: 1.05
-12/31/2024: 1.31
-Price/Sales
-Current: 3.46
-12/31/2025: 4.58
-9/30/2025: --
-6/30/2025: 6.46
-3/31/2025: 7.22
-12/31/2024: 10.31
-Price/Book
-Current: 5.50
-12/31/2025: 8.51
-9/30/2025: --
-6/30/2025: 14.10
-3/31/2025: 14.53
-12/31/2024: 23.00
-Enterprise Value/Revenue
-Current: 3.79
-12/31/2025: 4.80
-9/30/2025: 5.17
-6/30/2025: 5.26
-3/31/2025: 7.44
-12/31/2024: 10.18
-Enterprise Value/EBITDA
-Current: 7.48
-12/31/2025: 10.03
-9/30/2025: 10.44
-6/30/2025: 10.63
-3/31/2025: 15.74
-12/31/2024: 20.21
-
-
-
+Valuation Measures
+Current	12/31/2025	9/30/2025	6/30/2025	3/31/2025	12/31/2024
+Market Cap	171.95B	227.28B	240.67B	307.01B	302.51B	386.78B
+Enterprise Value	188.33B	238.07B	253.30B	319.14B	313.61B	384.28B
+Trailing P/E	10.93	13.87	14.15	18.70	21.15	29.08
+Forward P/E	11.64	14.10	13.33	16.75	17.36	22.08
+PEG Ratio (5yr expected)	5.22	2.16	1.40	1.32	1.07	1.29
+Price/Sales	3.62	4.56	5.04	6.46	7.36	10.18
+Price/Book	5.76	8.46	9.34	14.08	14.81	22.72
+Enterprise Value/Revenue	3.87	4.80	5.17	5.26	7.44	10.18
+Enterprise Value/EBITDA	7.63	10.03	10.44	10.63	15.74	20.21
 Financial Highlights
 Fiscal Year
 Fiscal Year Ends	12/31/2025
@@ -4498,7 +4443,7 @@ Quarterly Revenue Growth (yoy)	-7.60%
 Gross Profit (ttm)	254.69B
 EBITDA	153.29B
 Net Income Avi to Common (ttm)	102.43B
-Diluted EPS (ttm)	23.03
+Diluted EPS (ttm)	3.60
 Quarterly Earnings Growth (yoy)	-4.70%
 Balance Sheet
 Total Cash (mrq)	26.96B
@@ -4506,43 +4451,43 @@ Total Cash Per Share (mrq)	6.07
 Total Debt (mrq)	130.96B
 Total Debt/Equity (mrq)	67.49%
 Current Ratio (mrq)	0.80
-Book Value Per Share (mrq)	43.67
+Book Value Per Share (mrq)	6.88
 Cash Flow Statement
 Operating Cash Flow (ttm)	119.1B
 Levered Free Cash Flow (ttm)	376.88M
 Trading Information
 Stock Price History
 Beta (5Y Monthly)	0.27
-52 Week Change 3	-44.79%
-S&P 500 52-Week Change 3	26.10%
-52 Week High 3	533.40
-52 Week Low 3	224.25
-50-Day Moving Average 3	265.26
-200-Day Moving Average 3	331.28
+52 Week Change 3	-37.47%
+S&P 500 52-Week Change 3	32.07%
+52 Week High 3	81.44
+52 Week Low 3	35.12
+50-Day Moving Average 3	40.85
+200-Day Moving Average 3	51.92
 Share Statistics
-Avg Vol (3 month) 3	8.6M
-Avg Vol (10 day) 3	6.08M
+Avg Vol (3 month) 3	23.19M
+Avg Vol (10 day) 3	15.21M
 Shares Outstanding 5	3.36B
-Implied Shares Outstanding 6	4.44B
+Implied Shares Outstanding 6	4.45B
 Float 8	3.19B
-% Held by Insiders 1	5.28%
-% Held by Institutions 1	31.47%
-Shares Short 4	--
-Short Ratio 4	--
-Short % of Float 4	--
-Short % of Shares Outstanding 4	--
-Shares Short (prior month ) 4	--
+% Held by Insiders 1	0.01%
+% Held by Institutions 1	9.50%
+Shares Short (3/31/2026) 4	19.93M
+Short Ratio (3/31/2026) 4	1.04
+Short % of Float (3/31/2026) 4	0.63%
+Short % of Shares Outstanding (3/31/2026) 4	0.45%
+Shares Short (prior month 2/27/2026) 4	28.26M
 Dividends & Splits
-Forward Annual Dividend Rate 4	15.9
-Forward Annual Dividend Yield 4	6.61%
+Forward Annual Dividend Rate 4	1.8
+Forward Annual Dividend Yield 4	4.58%
 Trailing Annual Dividend Rate 3	11.70
-Trailing Annual Dividend Yield 3	4.86%
-5 Year Average Dividend Yield 4	1.74
-Payout Ratio 4	50.59%
-Dividend Date 3	--
-Ex-Dividend Date 4	3/27/2026
+Trailing Annual Dividend Yield 3	29.76%
+5 Year Average Dividend Yield 4	1.72
+Payout Ratio 4	50.42%
+Dividend Date 3	4/8/2026
+Ex-Dividend Date 4	3/30/2026
 Last Split Factor 2	2:1
-Last Split Date 3	9/13/2023
+Last Split Date 3	9/20/2023
 Footnotes
 1 Data provided by Refinitiv.
 2 Data provided by EDGAR Online.
@@ -4561,6 +4506,26 @@ fye = Fiscal Year Ending
 
 
 
+Revenue Estimate
+Currency in DKK	Current Qtr. (Mar 2026)	Next Qtr. (Jun 2026)	Current Year (2026)	Next Year (2027)
+No. of Analysts	7	5	27	27
+Avg. Estimate	72.88B	71.91B	285.53B	299.6B
+Low Estimate	67.54B	69.84B	270.52B	271.03B
+High Estimate	95.49B	73.95B	314.79B	332.69B
+Year Ago Sales	78.09B	76.86B	309.06B	285.53B
+Sales Growth (year/est)	-6.67%	-6.44%	-7.61%	4.93%
+Earnings Estimate
+
+gaap
+GAAP
+nongaap
+Normalized
+Currency in DKK	Current Qtr. (Mar 2026)	Next Qtr. (Jun 2026)	Current Year (2026)	Next Year (2027)
+No. of Analysts	3	3	--	9
+Avg. Estimate	6.83	5.09	--	22.06
+Low Estimate	4.91	5.06	--	20.46
+High Estimate	10.09	5.14	--	24
+Year Ago EPS	6.53	5.96	--	21.72
 Earnings History
 
 gaap
@@ -4599,6 +4564,7 @@ Growth Estimates
 Symbol	Current Qtr.	Next Qtr.	Current Year	Next Year
 NVO	4.55%	-14.62%	-5.69%	1.59%
 S&P 500	11.60%	18.98%	17.59%	16.49%
+
 
 
 
