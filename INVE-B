@@ -2002,83 +2002,145 @@ Ex-Dividend Date
 https://finance.yahoo.com/quote/INVE-B.ST/profile/
 
 
+Revenue Estimate
+Currency in SEK	Current Qtr. (Mar 2026)	Next Qtr. (Jan 1970)	Current Year (2026)	Next Year (2027)
+No. of Analysts	1	--	2	2
+Avg. Estimate	15.65B	--	66.65B	68.03B
+Low Estimate	15.65B	--	65.9B	65.9B
+High Estimate	15.65B	--	67.4B	70.16B
+Year Ago Sales	--	--	64.83B	66.65B
+Sales Growth (year/est)	--	--	2.81%	2.07%
+Earnings Estimate
+
+gaap
+GAAP
+nongaap
+Normalized
+Currency in USD	Current Qtr. (Mar 2026)	Next Qtr. (Jan 1970)	Current Year (2026)	Next Year (2027)
+No. of Analysts	--	--	--	--
+Avg. Estimate	--	--	--	--
+Low Estimate	--	--	--	--
+High Estimate	--	--	--	--
+Year Ago EPS	--	--	--	--
+EPS Trend
+
+gaap
+GAAP
+nongaap
+Normalized
+Currency in USD	Current Qtr. (Mar 2026)	Next Qtr. (Jan 1970)	Current Year (2026)	Next Year (2027)
+Current Estimate	--	--	--	--
+7 Days Ago	--	--	--	--
+30 Days Ago	--	--	--	--
+60 Days Ago	--	--	--	--
+90 Days Ago	--	--	--	--
+EPS Revisions
+
+gaap
+GAAP
+nongaap
+Normalized
+Currency in USD	Current Qtr. (Mar 2026)	Next Qtr. (Jan 1970)	Current Year (2026)	Next Year (2027)
+Up Last 7 Days	--	--	--	--
+Up Last 30 Days	--	--	--	--
+Down Last 7 Days	--	--	--	--
+Down Last 30 Days	--	--	--	--
+Growth Estimates
+Symbol	Current Qtr.	Next Qtr.	Current Year	Next Year
+INVE-B.ST	--	--	--	--
+S&P 500	11.60%	18.98%	17.59%	16.49%
 
 
 
+Valuation Measures
+Current	12/31/2025	6/30/2025	3/31/2025	12/31/2024	9/30/2024
+Market Cap	1.15T	1.01T	857.02B	913.64B	895.93B	957.25B
+Enterprise Value	--	--	--	--	--	--
+Trailing P/E	7.32	14.38	19.81	4.46	4.38	5.29
+Forward P/E	--	--	--	--	--	--
+PEG Ratio (5yr expected)	--	--	--	--	--	--
+Price/Sales	5.32	7.90	8.56	3.50	3.44	4.05
+Price/Book	1.21	1.13	1.06	1.12	1.06	1.14
+Enterprise Value/Revenue	5.83	8.79	9.60	3.88	3.80	4.45
+Enterprise Value/EBITDA	14.94	--	--	--	--	--
+Financial Highlights
+Fiscal Year
+Fiscal Year Ends	12/31/2025
+Most Recent Quarter (mrq)	12/31/2025
+Profitability
+Profit Margin	71.62%
+Operating Margin (ttm)	78.99%
+Management Effectiveness
+Return on Assets (ttm)	9.91%
+Return on Equity (ttm)	17.74%
+Income Statement
+Revenue (ttm)	219.91B
+Revenue Per Share (ttm)	71.79
+Quarterly Revenue Growth (yoy)	--
+Gross Profit (ttm)	186.09B
+EBITDA	165.56B
+Net Income Avi to Common (ttm)	157.49B
+Diluted EPS (ttm)	51.39
+Quarterly Earnings Growth (yoy)	--
+Balance Sheet
+Total Cash (mrq)	22.64B
+Total Cash Per Share (mrq)	7.39
+Total Debt (mrq)	116.2B
+Total Debt/Equity (mrq)	12.18%
+Current Ratio (mrq)	2.94
+Book Value Per Share (mrq)	311.33
+Cash Flow Statement
+Operating Cash Flow (ttm)	22.16B
+Levered Free Cash Flow (ttm)	102.55B
+Trading Information
+Stock Price History
+Beta (5Y Monthly)	0.80
+52 Week Change 3	36.07%
+S&P 500 52-Week Change 3	32.07%
+52 Week High 3	378.70
+52 Week Low 3	271.90
+50-Day Moving Average 3	359.39
+200-Day Moving Average 3	321.71
+Share Statistics
+Avg Vol (3 month) 3	3.71M
+Avg Vol (10 day) 3	3.72M
+Shares Outstanding 5	1.82B
+Implied Shares Outstanding 6	3.06B
+Float 8	2.44B
+% Held by Insiders 1	0.25%
+% Held by Institutions 1	45.85%
+Shares Short 4	--
+Short Ratio 4	--
+Short % of Float 4	--
+Short % of Shares Outstanding 4	--
+Shares Short (prior month ) 4	--
+Dividends & Splits
+Forward Annual Dividend Rate 4	5.6
+Forward Annual Dividend Yield 4	1.49%
+Trailing Annual Dividend Rate 3	5.60
+Trailing Annual Dividend Yield 3	1.49%
+5 Year Average Dividend Yield 4	1.79
+Payout Ratio 4	10.12%
+Dividend Date 3	--
+Ex-Dividend Date 4	5/8/2026
+Last Split Factor 2	4:1
+Last Split Date 3	5/19/2021
+Footnotes
+1 Data provided by Refinitiv.
+2 Data provided by EDGAR Online.
+3 Data derived from multiple sources or calculated by Yahoo Finance.
+4 Data provided by Morningstar, Inc.
+5 Shares outstanding is taken from the most recently filed quarterly or annual report and Market Cap is calculated using shares outstanding.
+6 Implied Shares Outstanding of common equity, assuming the conversion of all convertible subsidiary equity into common.
+7 EBITDA is calculated by S&P Global Market Intelligence using methodology that may differ from that used by a company in its reporting.
+8 A company's float is a measure of the number of shares available for trading by the public. It's calculated by taking the number of issued and outstanding shares minus any restricted stock, which may not be publicly traded.
+Abbreviation Guide
+mrq = Most Recent Quarter
+ttm = Trailing Twelve Months
+yoy = Year Over Year
+lfy = Last Fiscal Year
+fye = Fiscal Year Ending
 
-year: 2025
-eps: 10.90
 
-year: 2024
-eps: 14.07
-
-year: 2023
-eps: 11.59
-
-year: 2022
-eps: -18.06
-
-year: 2021
-eps: 5.37
-
-
-
-
-year: 2025
-equityPerShare: 311.39
-
-year: 2024
-equityPerShare: 267.63
-
-year: 2023
-equityPerShare: 234.23
-
-year: 2022
-equityPerShare: 197.36
-
-year: 2021
-equityPerShare: 223.46
-
-
-year: 2025
-revenuePerShare: 51.42
-
-year: 2024
-revenuePerShare: 37.00
-
-year: 2023
-revenuePerShare: 41.48
-
-year: 2022
-revenuePerShare: -24.38
-
-year: 2021
-revenuePerShare: 74.56
-
-
-year1: 2025
-eps1: 10.90
-revenuePerShare1: 51.42
-equityPerShare1: 311.39
-
-year2: 2024
-eps2: 14.07
-revenuePerShare2: 37.00
-equityPerShare2: 267.63
-
-year3: 2023
-eps3: 11.59
-revenuePerShare3: 41.48
-equityPerShare3: 234.23
-
-year4: 2022
-eps4: -18.06
-revenuePerShare4: -24.38
-equityPerShare4: 197.36
-
-year5: 2021
-eps5: 5.37
-revenuePerShare5: 74.56
-equityPerShare5: 223.46
 
 
