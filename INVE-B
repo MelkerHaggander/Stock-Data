@@ -2006,121 +2006,79 @@ https://finance.yahoo.com/quote/INVE-B.ST/profile/
 
 
 
-2025
-Börsvärde: 1 012 117 MSEK
-P/E-tal: 6
-P/S-tal: Infinity
-P/Eget kapital: 1,06
-Direktavkastning: 1,69 %
-Per aktie
-Omsättning/aktie: 51,42
-Vinst/aktie: 10,90
-Andel utdelad vinst: 0,00 %
-Eget kapital/aktie: 311,39
-Balans/aktie: 360,01
-Tillväxt
-Omsättningstillväxt: –
-Resultattillväxt: –
-Marginaler & avkastning
-Bruttomarginal: –
-Rörelsemarginal: –
-Vinstmarginal: Infinity
-ROE (Räntabilitet eget kapital): Infinity
-ROA (Räntabilitet totalt kapital): 16,49 %
-Finansiell ställning
-Soliditet: 14,27 %
-Kassalikviditet: 86,50
-Balanslikviditet: 2,22
-Ändring eget kapital: –
-Ändring totalt kapital: –
-Kapitalomsättningshastighet: 0,00
-Övrigt
-Valuta: MSEK
-Period: 2025-01-01 → 2025-12-31
-2024
-Börsvärde: 896 549 MSEK
-P/E-tal: 8
-P/S-tal: Infinity
-P/Eget kapital: 1,09
-Direktavkastning: 1,78 %
-Per aktie
-Omsättning/aktie: 37,00
-Vinst/aktie: 14,07
-Andel utdelad vinst: 0,00 %
-Eget kapital/aktie: 267,63
-Balans/aktie: 310,83
-Marginaler & avkastning
-Vinstmarginal: Infinity
-ROE: Infinity
-ROA: 13,81 %
-Finansiell ställning
-Soliditet: 11,89 %
-Kassalikviditet: 86,10
-Balanslikviditet: 2,42
-Kapitalomsättningshastighet: 0,00
-Övrigt
-Period: 2024-01-01 → 2024-12-31
-2023
-Börsvärde: 715 187 MSEK
-P/E-tal: 6
-P/S-tal: Infinity
-P/Eget kapital: 1,00
-Direktavkastning: 2,06 %
-Per aktie
-Omsättning/aktie: 41,48
-Vinst/aktie: 11,59
-Eget kapital/aktie: 234,23
-Balans/aktie: 273,74
-Marginaler & avkastning
-Vinstmarginal: Infinity
-ROE: Infinity
-ROA: 17,68 %
-Finansiell ställning
-Soliditet: 15,13 %
-Kassalikviditet: 85,57
-Balanslikviditet: 2,68
-Övrigt
-Period: 2023-01-01 → 2023-12-31
-2022
-Börsvärde: 578 634 MSEK
-P/E-tal: -7
-P/S-tal: Infinity
-P/Eget kapital: 0,96
-Direktavkastning: 2,33 %
-Per aktie
-Omsättning/aktie: -24,38
-Vinst/aktie: -18,06
-Eget kapital/aktie: 197,36
-Balans/aktie: 236,05
-Marginaler & avkastning
-Vinstmarginal: -Infinity
-ROE: -Infinity
-ROA: -12,34 %
-Finansiell ställning
-Soliditet: -10,32 %
-Kassalikviditet: 83,61
-Balanslikviditet: 2,72
-Övrigt
-Period: 2022-01-01 → 2022-12-31
-2021
-Börsvärde: 696 639 MSEK
-P/E-tal: 3
-P/S-tal: Infinity
-P/Eget kapital: 1,02
-Direktavkastning: 1,76 %
-Per aktie
-Omsättning/aktie: 74,56
-Vinst/aktie: 5,37
-Eget kapital/aktie: 223,46
-Balans/aktie: 260,08
-Marginaler & avkastning
-Vinstmarginal: Infinity
-ROE: Infinity
-ROA: 33,35 %
-Finansiell ställning
-Soliditet: 28,66 %
-Kassalikviditet: 85,92
-Balanslikviditet: 2,03
+year: 2025
+eps: 10.90
 
+year: 2024
+eps: 14.07
+
+year: 2023
+eps: 11.59
+
+year: 2022
+eps: -18.06
+
+year: 2021
+eps: 5.37
+
+
+
+
+year: 2025
+equityPerShare: 311.39
+
+year: 2024
+equityPerShare: 267.63
+
+year: 2023
+equityPerShare: 234.23
+
+year: 2022
+equityPerShare: 197.36
+
+year: 2021
+equityPerShare: 223.46
+
+
+year: 2025
+revenuePerShare: 51.42
+
+year: 2024
+revenuePerShare: 37.00
+
+year: 2023
+revenuePerShare: 41.48
+
+year: 2022
+revenuePerShare: -24.38
+
+year: 2021
+revenuePerShare: 74.56
+
+
+year1: 2025
+eps1: 10.90
+revenuePerShare1: 51.42
+equityPerShare1: 311.39
+
+year2: 2024
+eps2: 14.07
+revenuePerShare2: 37.00
+equityPerShare2: 267.63
+
+year3: 2023
+eps3: 11.59
+revenuePerShare3: 41.48
+equityPerShare3: 234.23
+
+year4: 2022
+eps4: -18.06
+revenuePerShare4: -24.38
+equityPerShare4: 197.36
+
+year5: 2021
+eps5: 5.37
+revenuePerShare5: 74.56
+equityPerShare5: 223.46
 
 
