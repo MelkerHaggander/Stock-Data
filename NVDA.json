@@ -1,122 +1,22 @@
 {
   "currency": "USD",
-
-  "valuation_measures": {
-    "market_cap": "4.78T",
-    "enterprise_value": "4.72T",
-    "trailing_pe": "40.10",
-    "forward_pe": "24.10",
-    "peg_ratio": "0.80",
-    "price_sales": "22.31",
-    "price_book": "30.36",
-    "ev_revenue": "21.88",
-    "ev_ebitda": "32.68"
-  },
-
-  "financial_highlights": {
-    "fiscal_year_end": "2026-01-25",
-    "profit_margin": "55.60%",
-    "operating_margin": "65.02%",
-    "roa": "51.19%",
+  "price": 198.70,
+  "change_val": −0.16,
+  "change_pct": -0.088,
+  "ts_label": "Apr 16, 2026",
+  "metrics": {
+    "pe": "40.10",
+    "fpe": "24.10",
+    "pb": "30.36",
+    "eveb": "32.68",
+    "margin": "65.02%",
     "roe": "101.49%",
-    "revenue_ttm": "215.94B",
-    "revenue_per_share": "8.86",
-    "revenue_growth_yoy": "73.20%",
-    "gross_profit": "153.46B",
-    "ebitda": "133.23B",
-    "net_income": "120.07B",
-    "eps_ttm": "4.89",
-    "earnings_growth_yoy": "94.50%"
+    "divy": "0.02%",
+    "cap": "$4.78T",
+    "fcf": "$58.13B",
+    "fcfClass": "up"
   },
-
-  "balance_sheet": {
-    "cash": "62.56B",
-    "cash_per_share": "2.57",
-    "debt": "11.41B",
-    "debt_equity": "7.25%",
-    "current_ratio": "3.90",
-    "book_value_per_share": "6.47"
-  },
-
-  "cashflow": {
-    "operating_cashflow": "102.72B",
-    "free_cashflow": "58.13B"
-  },
-
-  "trading": {
-    "beta": "2.34",
-    "52w_change": "88.07%",
-    "sp500_change": "32.07%",
-    "high_52w": "212.19",
-    "low_52w": "95.04",
-    "ma50": "182.12",
-    "ma200": "181.12"
-  },
-
-  "shares": {
-    "shares_outstanding": "24.3B",
-    "float": "23.32B",
-    "insiders": "4.21%",
-    "institutions": "69.76%",
-    "short_float": "0.98%"
-  },
-
-  "dividends": {
-    "forward_dividend": "0.04",
-    "forward_yield": "0.02%",
-    "payout_ratio": "0.82%",
-    "dividend_date": "2026-04-01",
-    "ex_dividend_date": "2026-03-11"
-  },
-
-  "revenue_estimates": {
-    "current_q": "78.76B",
-    "next_q": "86.42B",
-    "current_year": "369.42B",
-    "next_year": "479.97B",
-    "growth_current_year": "71.08%",
-    "growth_next_year": "29.93%"
-  },
-
-  "earnings_estimates": {
-    "current_q": "1.78",
-    "next_q": "1.95",
-    "current_year": "8.29",
-    "next_year": "11.12"
-  },
-
-  "eps_history": {
-    "labels": ["Q2 2025", "Q3 2025", "Q4 2025", "Q1 2026"],
-    "estimated": [0.75, 1.01, 1.26, 1.54],
-    "actual": [0.81, 1.05, 1.30, 1.62]
-  },
-
-  "eps_trend": {
-    "current_estimate": [1.78, 1.95, 8.29, 11.12],
-    "30_days_ago": [1.78, 1.95, 8.23, 10.66],
-    "60_days_ago": [1.65, 1.81, 7.66, 9.9],
-    "90_days_ago": [1.65, 1.8, 7.57, 9.7]
-  },
-
-  "eps_revisions": {
-    "up_7_days": [1, 2, 4, 6],
-    "up_30_days": [31, 26, 38, 26],
-    "down_7_days": [1, 1, 1, 1],
-    "down_30_days": [1, 5, 5, 4]
-  },
-
-  "growth_estimates": {
-    "company": {
-      "current_q": "119.15%",
-      "next_q": "85.37%",
-      "current_year": "73.89%",
-      "next_year": "34.02%"
-    },
-    "sp500": {
-      "current_q": "11.60%",
-      "next_q": "18.98%",
-      "current_year": "17.59%",
-      "next_year": "16.49%"
-    }
-  }
+  "eps_labels": ["Q2 2025", "Q3 2025", "Q4 2025", "Q1 2026"],
+  "eps_data": [0.81, 1.05, 1.30, 1.62],
+  "eps_unit": "$"
 }
