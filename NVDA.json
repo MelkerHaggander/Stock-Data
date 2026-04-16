@@ -1,0 +1,31 @@
+{
+  "currency": "USD",
+  "price": 188.20,
+  "change_val": -0.43,
+  "change_pct": -0.23,
+  "ts_label": "Apr 15, 2026",
+  "metrics": {
+    "pe": "38.4",
+    "fpe": "17.0",
+    "pb": "29.1",
+    "eveb": "33.9",
+    "margin": "60.4%",
+    "roe": "101.5%",
+    "divy": "0.02%",
+    "cap": "$4.57T",
+    "fcf": "$58.1B",
+    "fcfClass": "up"
+  },
+  "eps_labels": [
+    "Q1 FY25",
+    "Q2 FY25",
+    "Q3 FY25",
+    "Q4 FY25",
+    "Q1 FY26",
+    "Q2 FY26",
+    "Q3 FY26",
+    "Q4 FY26"
+  ],
+  "eps_data": [0.60, 0.67, 0.78, 0.89, 0.76, 1.08, 1.30, 1.76],
+  "eps_unit": "$"
+}
