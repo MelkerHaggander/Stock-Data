@@ -3,7 +3,7 @@
   "price": 240.50,
   "change_val": -2.29,
   "change_pct": -0.94,
-  "ts_label": "Apr 15, 2026",
+  "ts_label": "Apr 16, 2026",
   "metrics": {
     "pe": "10.5",
     "fpe": "11.1",
@@ -24,4 +24,5 @@
     "Q4 2025"
   ],
   "eps_data": [6.34, 6.53, 5.96, 4.50, 6.04],
-  "eps_unit": "DKK",
+  "eps_unit": "DKK"
+}
