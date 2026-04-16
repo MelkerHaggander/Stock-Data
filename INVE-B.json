@@ -1,0 +1,28 @@
+{
+  "currency": "SEK",
+  "price": 364.10,
+  "change_val": 9.80,
+  "change_pct": 2.77,
+  "ts_label": "Apr 15, 2026",
+  "metrics": {
+    "pe": "6.0",
+    "fpe": "–",
+    "pb": "1.06",
+    "eveb": "–",
+    "margin": "–",
+    "roe": "16.5%",
+    "divy": "1.69%",
+    "cap": "SEK 1,012B",
+    "fcf": "SEK 19.0B",
+    "fcfClass": "up"
+  },
+  "eps_labels": [
+    "Q4 2024",
+    "Q1 2025",
+    "Q2 2025",
+    "Q3 2025",
+    "Q4 2025"
+  ],
+  "eps_data": [-10.35, -0.99, 14.78, 19.53, 18.07],
+  "eps_unit": "SEK"
+}
