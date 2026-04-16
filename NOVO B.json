@@ -1,0 +1,28 @@
+{
+  "currency": "DKK",
+  "price": 240.50,
+  "change_val": -2.29,
+  "change_pct": -0.94,
+  "ts_label": "Apr 15, 2026",
+  "metrics": {
+    "pe": "10.5",
+    "fpe": "11.1",
+    "pb": "5.50",
+    "eveb": "7.5",
+    "margin": "44.5%",
+    "roe": "60.7%",
+    "divy": "6.61%",
+    "cap": "DKK 1.07T",
+    "fcf": "DKK 29.0B",
+    "fcfClass": "up"
+  },
+  "eps_labels": [
+    "Q4 2024",
+    "Q1 2025",
+    "Q2 2025",
+    "Q3 2025",
+    "Q4 2025"
+  ],
+  "eps_data": [6.34, 6.53, 5.96, 4.50, 6.04],
+  "eps_unit": "DKK"
+}
